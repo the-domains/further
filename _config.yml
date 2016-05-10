@@ -1,6 +1,6 @@
 name: Further.
 favicon: null
-layout_spectrum: 0.17397150467149913
+layout_spectrum: 0.26569
 typography_spectrum: 0.7867354932241142
 title: Further.
 cta:
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.7519884260836989
-  lightness: 0.4815179391298443
-  saturation: 0.766326957847923
-  rhythmicContrast: 0.006548645440489054
+  brandStrength: 0.6875
+  lightness: 0.25
+  saturation: 0.8125
+  rhythmicContrast: 0.25
 purpose: []
