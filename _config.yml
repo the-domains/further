@@ -1,7 +1,7 @@
 name: Further.
 favicon: null
 layout_spectrum: 0.26569
-typography_spectrum: 0.7867354932241142
+typography_spectrum: 0.56836
 title: Further.
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#00022b'
+    - '#b7a483'
+    - '#353c4d'
+    - '#5c5b60'
+    - '#f3c99f'
   brandStrength: 0.6875
   lightness: 0.25
   saturation: 0.8125
